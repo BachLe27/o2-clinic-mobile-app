@@ -19,7 +19,7 @@ const index = () => {
       }} />
       <Image source={doctorImg} contentFit='contain' className='mt-10' style={{
         width: '100%',
-        height: 500,
+        height: 350,
       }} />
 
       <View className='flex-1 items-center w-full gap-3'>
